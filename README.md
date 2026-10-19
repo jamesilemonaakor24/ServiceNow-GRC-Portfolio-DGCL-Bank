@@ -114,7 +114,6 @@ The key exception was **partial MFA coverage for privileged accounts**. Instead 
 - Engagement: **CloudPay Online Payment Processing Service**
 - Third-party tier: **2 - High**
 - Finding: **Incomplete MFA Coverage for Privileged Accounts**
-- Finding priority observed in the lab: **4 - Low**
 - Final engagement risk rating observed: **4 - Low**
 
 The final rating reflects the configured ServiceNow assessment used in this case study.
