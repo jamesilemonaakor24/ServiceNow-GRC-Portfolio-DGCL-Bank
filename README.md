@@ -339,21 +339,6 @@ This case study shows practical understanding of several activities commonly exp
 9. **Traceability** — linking entities, risks, controls, tests, issues and remediation instead of managing them as isolated records.
 10. **Management reporting** — converting detailed GRC records into concise executive indicators.
 
----
-
-# Role alignment
-
-| Role | Evidence from this portfolio |
-|---|---|
-| GRC / Cybersecurity GRC Analyst | Risk register, controls, issues, remediation, governance workflow and reporting |
-| Technology Risk Analyst | Inherent/residual risk assessment, treatment, ownership, monitoring and executive metrics |
-| Cybersecurity Compliance Analyst | MFA control requirements, control testing, exception management and remediation verification |
-| Junior IT Auditor / Technology Auditor | Audit engagement, test plan, operating-effectiveness testing, finding and closure workflow |
-| Third-Party Risk / Vendor Risk Analyst | Vendor profile, engagement, questionnaire, assessment, issue, remediation and internal review |
-| ServiceNow GRC / IRM Analyst | Hands-on configuration and execution of connected GRC records and workflows inside ServiceNow |
-| Security Risk Analyst | Security-risk scenario analysis, control evaluation, mitigation and residual-risk thinking |
-
----
 
 # Repository structure
 
